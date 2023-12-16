@@ -1,0 +1,10 @@
+# ninja log v5
+3	268	7244541519981155	build.ninja	b28d66e5b4671089
+7	1006	7244535518385671	CMakeFiles/praktikum_10_3_FH_Aachen_BinaererSuchbaum.dir/suchbaum_klasse_main.cpp.obj	c88e58048ec2ce15
+23	927	7244541126283403	CMakeFiles/praktikum_10_3_FH_Aachen_BinaererSuchbaum.dir/BaumKnoten.cpp.obj	4425fc0c373c09cf
+12	924	7244541126263462	CMakeFiles/praktikum_10_3_FH_Aachen_BinaererSuchbaum.dir/BinaererSuchbaum.cpp.obj	5dff9f97268a214d
+928	1160	7244541128564044	praktikum_10_3_FH_Aachen_BinaererSuchbaum.exe	caa6aec77d8cc2c9
+6	650	7244544044631942	CMakeFiles/praktikum_10_3_FH_Aachen_BinaererSuchbaum.dir/BinaererSuchbaum.cpp.obj	5dff9f97268a214d
+25	1210	7244544050241126	CMakeFiles/praktikum_10_3_FH_Aachen_BinaererSuchbaum.dir/test_binaerer_suchbaum_klasse.cpp.obj	5649a5b6ccb8acb4
+7	544	7244544362697378	CMakeFiles/praktikum_10_3_FH_Aachen_BinaererSuchbaum.dir/BaumKnoten.cpp.obj	4425fc0c373c09cf
+545	746	7244544364640569	praktikum_10_3_FH_Aachen_BinaererSuchbaum.exe	3eac47cdb9b6df40
